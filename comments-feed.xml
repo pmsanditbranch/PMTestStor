@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for POWER MAKER	</title>
-	<atom:link href="https://powermaker.net/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://powermaker.net</link>
+	<atom:link href="https://raw.githubusercontent.com/pmsanditbranch/PMTestStor/main/comments-feed.xml" rel="self" type="application/rss+xml" />
+	<link>https://pixelsworker.com</link>
 	<description>Power &#38; Distribution Transformer Manufacturer</description>
 	<lastBuildDate>Sat, 22 Jun 2024 09:41:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
